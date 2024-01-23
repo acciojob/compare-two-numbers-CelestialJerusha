@@ -3,7 +3,7 @@ var n1 = prompt("Enter num1")
 var n2 = prompt("Enter num2")
 
 if(n1 === n2){
-	alert("true")
+	alert(true)
 }
 else
-	alert("false");
+	alert(false);
